@@ -7,3 +7,5 @@ __pycache__/
 
 # Ignorar archivos especificos de IDE
 .vscode/
+# Ignorar archivo de variables de entorno
+.env
