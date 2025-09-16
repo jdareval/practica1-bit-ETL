@@ -9,3 +9,5 @@ __pycache__/
 .vscode/
 # Ignorar archivo de variables de entorno
 .env
+# Ignorar todo el contenido de la carpeta data
+data/*s
