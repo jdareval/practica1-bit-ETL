@@ -11,3 +11,5 @@ __pycache__/
 .env
 # Ignorar todo el contenido de la carpeta data
 data/*
+# Ignorar la carpeta con los CSVs generados por el script
+/output_data_model/
